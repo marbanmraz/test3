@@ -1,4 +1,4 @@
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://github.com/marbanmraz/test3]
+[![Deploy](https://deploy.heroku.com]([https://github.com/marbanmraz/test3]
 
